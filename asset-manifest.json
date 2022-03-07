@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/my-spring-practise/static/css/main.073c9b0a.css",
+    "main.js": "/my-spring-practise/static/js/main.ff03bd9b.js",
+    "static/js/787.2d260656.chunk.js": "/my-spring-practise/static/js/787.2d260656.chunk.js",
+    "index.html": "/my-spring-practise/index.html",
+    "main.073c9b0a.css.map": "/my-spring-practise/static/css/main.073c9b0a.css.map",
+    "main.ff03bd9b.js.map": "/my-spring-practise/static/js/main.ff03bd9b.js.map",
+    "787.2d260656.chunk.js.map": "/my-spring-practise/static/js/787.2d260656.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.ff03bd9b.js"
+  ]
+}
